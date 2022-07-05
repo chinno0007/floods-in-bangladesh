@@ -96,6 +96,49 @@ hr {
     color: white;
     border: 0;
     font-size: 16px;
+    margin-bottom: 20px;
 }
 
 /* Donation Ended */
+
+/* Our Donate plan start */
+.Suatainable-development {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+
+
+
+}
+
+.food {
+    height: 170px;
+    width: 30%;
+    margin: 0 auto;
+    background-color: rgba(0, 234, 255, 0.16);
+    padding: 10px;
+    text-align: justify;
+}
+
+.shelter {
+    width: 30%;
+    height: 170px;
+    margin: 0 auto;
+    background-color: rgba(152, 123, 152, 0.333);
+    padding: 10px;
+    text-align: justify;
+}
+
+.education {
+    width: 30%;
+    height: 170px;
+    margin: 0 auto;
+    background-color: rgba(128, 138, 107, 0.333);
+    padding: 10px;
+    text-align: justify;
+    justify-content: space-between;
+
+}
+
+/* Our Donate plan ended */
