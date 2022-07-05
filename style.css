@@ -46,3 +46,56 @@ body {
 }
 
 /* Header Ended */
+
+
+/* Donation Start */
+.Donation {
+    text-align: center;
+    padding: 50px;
+}
+
+.donate-taka {
+
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+
+.Notun-taka {
+    background-color: rgba(194, 135, 135, 0.404);
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid red;
+}
+
+.div-clear {
+    clear: both;
+}
+
+.money-quantity {
+    text-align: center;
+    padding-bottom: 5px;
+    color: gray;
+}
+
+hr {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.money-btn {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    border: 0;
+    font-size: 16px;
+}
+
+/* Donation Ended */
