@@ -212,4 +212,39 @@ hr {
     padding-bottom: 40px;
 }
 
+.data-2 {
+    padding-bottom: 60px;
+}
+
+.data {
+    text-align: center;
+    padding-bottom: 40px;
+    background-color: rgba(211, 180, 140, 0.523);
+    background-position: center;
+    width: 60%;
+    margin: 0 auto;
+
+
+
+}
+
+input {
+    width: 30%;
+    height: 30px;
+    margin-top: 60px;
+}
+
+button {
+    background-color: orangered;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+
 /* Updates ended */
+
+/* Footer-added */
+
+
+/* footer-ended */
