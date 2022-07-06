@@ -149,6 +149,7 @@ hr {
     display: flex;
     width: 100%;
     padding-top: 80px;
+    padding-bottom: 40px;
 }
 
 .Donation-flood {
@@ -167,3 +168,48 @@ hr {
 }
 
 /* Contribution ended */
+
+/* Information Start */
+
+.Plans-1 {
+    display: flex;
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.Red-Cross {
+    float: left;
+    text-align: left;
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 90px;
+
+}
+
+.Plan-btn a {
+    float: right;
+    text-decoration: none;
+    background-color: orangered;
+    margin-top: 150px;
+    margin-left: 100px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+/* Information ended */
+
+/* Updates start */
+#Update {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+/* Updates ended */
