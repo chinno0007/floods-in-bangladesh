@@ -141,4 +141,29 @@ hr {
 
 }
 
-/* Our Donate plan ended */
+/* Our Donate plan ended  */
+
+
+/* Contribution Strat */
+.Donation-help {
+    display: flex;
+    width: 100%;
+    padding-top: 80px;
+}
+
+.Donation-flood {
+    float: left;
+    width: 40%;
+    padding: 40px;
+    text-align: left;
+}
+
+.donation-img img {
+    float: right;
+    width: 60%;
+    height: 90%;
+    padding-right: 40px;
+
+}
+
+/* Contribution ended */
